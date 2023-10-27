@@ -16,4 +16,4 @@ My CS302 (Data Structures) homework for fall of 2023
         - This is a partnered project
 - ### *Homework 5*
     - Sorting
-          - Learning the basic sorting algorithms
+    -     Learning the basic sorting algorithms
