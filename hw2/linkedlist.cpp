@@ -12,7 +12,7 @@ Node<ItemType>* LinkedList<ItemType>::getNodeAt(int position) const{
 			curPtr = curPtr->getNext();
 		}
 		return curPtr;
-	}
+	} 
 	return nullptr;
 } 
 
