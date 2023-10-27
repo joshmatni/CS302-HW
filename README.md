@@ -14,3 +14,6 @@ My CS302 (Data Structures) homework for fall of 2023
 - ### *Homework 4*
     - Queues
         - This is a partnered project
+- ### *Homework 5*
+    - Sorting
+          - Learning the basic sorting algorithms
