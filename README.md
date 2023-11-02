@@ -2,6 +2,8 @@
 My CS302 (Data Structures) homework for fall of 2023
 
 ## Homework Descriptions
+- Each Homework Folder has their respective `README.md` file with the problem we had to solve with the Data Structure
+
 - ### *Homework 1*
     - Review of OOP and C++ principles
 
