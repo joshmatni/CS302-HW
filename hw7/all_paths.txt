@@ -1,0 +1,28 @@
+Reno -> SF -> LV -> Seattle -> Reno - Distance: 1455 miles - Cost: $127.312
+Reno -> SF -> LV -> SLC -> Reno - Distance: 1694 miles - Cost: $148.225
+Reno -> SF -> Seattle -> LV -> Reno - Distance: 1432 miles - Cost: $125.3
+Reno -> SF -> Seattle -> SLC -> Reno - Distance: 2342 miles - Cost: $204.925
+Reno -> SF -> SLC -> Seattle -> Reno - Distance: 1716 miles - Cost: $150.15
+Reno -> SF -> SLC -> LV -> Reno - Distance: 1045 miles - Cost: $91.4375
+Reno -> LV -> SF -> Seattle -> Reno - Distance: 2515 miles - Cost: $220.062
+Reno -> LV -> SF -> SLC -> Reno - Distance: 1527 miles - Cost: $133.612
+Reno -> LV -> Seattle -> SF -> Reno - Distance: 1432 miles - Cost: $125.3
+Reno -> LV -> Seattle -> SLC -> Reno - Distance: 1788 miles - Cost: $156.45
+Reno -> LV -> SLC -> Seattle -> Reno - Distance: 2389 miles - Cost: $209.037
+Reno -> LV -> SLC -> SF -> Reno - Distance: 1045 miles - Cost: $91.4375
+Reno -> Seattle -> LV -> SF -> Reno - Distance: 1455 miles - Cost: $127.312
+Reno -> Seattle -> LV -> SLC -> Reno - Distance: 1639 miles - Cost: $143.412
+Reno -> Seattle -> SF -> LV -> Reno - Distance: 2515 miles - Cost: $220.062
+Reno -> Seattle -> SF -> SLC -> Reno - Distance: 2026 miles - Cost: $177.275
+Reno -> Seattle -> SLC -> SF -> Reno - Distance: 1716 miles - Cost: $150.15
+Reno -> Seattle -> SLC -> LV -> Reno - Distance: 2389 miles - Cost: $209.037
+Reno -> SLC -> LV -> Seattle -> Reno - Distance: 1639 miles - Cost: $143.412
+Reno -> SLC -> LV -> SF -> Reno - Distance: 1694 miles - Cost: $148.225
+Reno -> SLC -> Seattle -> LV -> Reno - Distance: 1788 miles - Cost: $156.45
+Reno -> SLC -> Seattle -> SF -> Reno - Distance: 2342 miles - Cost: $204.925
+Reno -> SLC -> SF -> Seattle -> Reno - Distance: 2026 miles - Cost: $177.275
+Reno -> SLC -> SF -> LV -> Reno - Distance: 1527 miles - Cost: $133.612
+
+Best Path:
+Reno -> SF -> SLC -> LV -> Reno
+Total Cost: $91.4375

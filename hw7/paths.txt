@@ -1,0 +1,8 @@
+Reno SF 186
+Reno LV 439
+Reno Seattle 700
+Reno SLC 519
+Seattle SLC 830
+Seattle SF 807
+SLC LV 420
+SF LV 569
