@@ -27,3 +27,9 @@ My CS302 (Data Structures) homework for fall of 2023
     - Binary Trees
       - Partnered Project w/ Ploy Wandeevong
 
+- ### *Homework 7*
+    - Graphs
+
+- ### *Homework 8*
+    - Dictionaries
+
